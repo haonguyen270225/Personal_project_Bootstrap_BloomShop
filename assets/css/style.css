@@ -3,3 +3,9 @@
     width: 100%;
     background-size: cover;
 }
+
+.view-product img{
+    width:   468px;
+    height: 500px;
+    background-size: cover;
+}
